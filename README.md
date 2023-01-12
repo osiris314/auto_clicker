@@ -3,6 +3,8 @@ Auto click x,y position
 
 dependencies: pip install -r requirements.txt
 
+execute: python auto_clicker.py
+
 settings:
 
 ![Capture](https://user-images.githubusercontent.com/29146438/212065862-dd95f121-b38d-4dc6-80ed-fe47959bd02b.PNG)
