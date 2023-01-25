@@ -1,4 +1,4 @@
-# auto_clicker
+# AUTO CLICKER
 Auto click x,y position
 
 dependencies: pip install -r requirements.txt
